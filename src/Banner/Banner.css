@@ -1,0 +1,32 @@
+.heading-banner{
+    color: rgb(136, 46, 11);
+    font-size: 35px;
+   text-align: left;
+   font-weight: 700;
+   font-family: poppins;
+   /* margin-bottom: 6em; */
+}
+.heading2-banner{
+    color: green;
+    font-size: 35px;
+    text-align: left;
+    font-weight: 700;
+    font-family: poppins;
+}
+.main-banber{
+    margin-bottom: 10em !important;
+}
+.button-login{
+    margin-left: -20em;
+    margin-right: 1em;
+}
+.button-login:hover{
+    background-color: rgb(7, 51, 7);
+}
+.button-login2{
+    margin-left: -33em;
+    margin-right: 1em;
+}
+.button-login2:hover{
+    background-color: rgb(107, 97, 7);
+}

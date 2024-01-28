@@ -1,0 +1,13 @@
+.second-navbar{
+    width: 80%;
+    height: 80px;
+    background-color: rgb(134, 52, 19);
+    z-index: 1;
+    margin-top: -2em;
+    
+}
+.li-elements{
+    color: #fff !important;
+    font-size: 18px;
+    font-weight: 600;
+}

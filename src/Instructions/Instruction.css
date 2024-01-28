@@ -1,0 +1,15 @@
+.instrction{
+    width: 100vw;
+    height: auto;
+    background: rgba(0,0,0,0.1);
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.instruction-heading{
+    margin-top: 20px;
+    font-size: 20px;
+    text-align: center;
+
+}

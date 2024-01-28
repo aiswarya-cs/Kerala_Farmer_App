@@ -1,0 +1,24 @@
+.about{
+    width: 100vw;
+    height: auto;
+    background: #f5f4f4;
+}
+.about-box{
+    width: 40vw;
+    height: auto;
+    margin-top: 100px;
+    margin-left: 100px;
+
+}
+.about-boxs{
+    width: 40vw;
+    height: auto;
+    margin-top: 100px;
+    
+}
+.para-about{
+    margin-top: 30px;
+    font-size: 0.8rem;
+    line-height: 2em;
+    text-align:justify;
+}

@@ -1,0 +1,40 @@
+.figure{
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+    max-height: 400px;
+    margin: 10px;
+}
+.ourteam{
+    text-align: center;
+    margin-top: 2em;
+    margin-bottom: 1em;
+    font-size: 40px;
+    font-weight: bold;
+    display: inline-block;
+    margin-left: 10em;
+}
+.ourteam:after {
+    content: '';
+    display: block;
+    width: 400px;
+    height: 1px;
+    background-color: #4b4848; 
+    bottom: 0;
+    left: 0;
+  }
+.ourteam span{
+    color: green;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.member-info {
+    background-color: #e8e8e8;
+    padding: 10px;
+    text-align: center;
+    
+  }
+.members-body{
+    background: rgb(46, 68, 46);
+    color: #fff;
+    text-align: center;
+}

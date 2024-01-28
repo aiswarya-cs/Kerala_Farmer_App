@@ -1,0 +1,22 @@
+
+.navbar{
+    background: rgb(1, 41, 1);
+    width: 100vw;
+    height: 150px; 
+}
+.logo-img{
+    margin-left: -3em;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1.5em;
+}
+.tsr-and-icon{
+    color: #fff;
+   
+}
+.list-element li{
+    display: inline;
+    text-decoration: none;
+    margin-bottom: 10px;
+    margin-left: 1em;
+}
